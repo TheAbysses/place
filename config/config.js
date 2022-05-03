@@ -1,6 +1,6 @@
 module.exports = {
     "secret": "CHANGETHISDONTUSETHISITSINSECURE", // <------- CHANGE THIS DONT USE THE DEFAULT YOU'LL GET HACKED AND DIE 100%
-    "database": "mongodb+srv://theternity:taha.6478@cluster0.q5pif.mongodb.net/placeturkey?retryWrites=true&w=majority",
+    "database": "",
     "port": 3000,
     "boardSize": 1600, 
     "onlyListenLocal": true,
